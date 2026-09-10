@@ -21,8 +21,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          submodules: recursive
+      - name: Install Blowfish theme
+        run: git clone --depth 1 https://github.com/nunocoracao/blowfish.git themes/blowfish
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
