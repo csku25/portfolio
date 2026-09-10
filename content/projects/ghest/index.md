@@ -14,9 +14,7 @@ heroStyle: "background" # Options: basic, background, text
 # Optional: Adds a cool external link icon if you have a live demo
 # externalUrl: "https://your-live-demo-link.com"
 ---
-{{< lead >}}
-Ghest was developed as my Senior Capstone project to solve [insert problem]. It bridges the gap between physical hardware and software control.
-{{< /lead >}}
+## Ghest was developed as my Senior Capstone project to solve [insert problem]. It bridges the gap between physical hardware and software control.
 
 ## The Code
 You can view the full source code for the project below:
