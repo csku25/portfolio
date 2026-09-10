@@ -19,7 +19,5 @@ heroStyle: "background" # Options: basic, background, text
 ## The Code
 You can view the full source code for the project below:
 
-{{< github repo="csku25/ghest" >}}
-
 ## The Build Process
 Here is how we put it together...
