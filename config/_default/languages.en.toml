@@ -1,0 +1,34 @@
+label = "English"
+locale = "en-us"
+weight = 1
+title = "K'drian A. Vega"
+
+[params]
+  displayName = "EN"
+  logo = "/img/logo.png"
+  disableTextInHeader = true
+
+[params.author]
+   name = "K'drian Antonio Vega"
+   image = "/img/profile.jpg"
+   headline = "Developer, CompSci Tutor, & Sound Tech"
+   links = [
+    { email = "mailto:kdrianvega@gmail.com"},
+    { github = "https://github.com/csku25" },
+    { linkedin = "https://linkedin.com/in/k-drian-vega-124350264" },
+   ]
+
+[[menus.main]]
+  name = "Projects"
+  pageRef = "/projects"
+  weight = 10
+
+[[menus.main]]
+  name = "Resume"
+  pageRef = "/resume"
+  weight = 20
+
+[[menus.main]]
+  name = "About Me"
+  pageRef = "/about_me"
+  weight = 30

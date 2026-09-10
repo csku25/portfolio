@@ -1,0 +1,4 @@
+defaultBackgroundImage = "/img/lavalamp.svg"
+
+[homepage]
+  layout = "background"
