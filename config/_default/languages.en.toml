@@ -11,11 +11,12 @@ title = "K'drian A. Vega"
 [params.author]
    name = "K'drian Antonio Vega"
    image = "/img/profile.jpg"
-   headline = "Developer, CompSci Tutor, & Sound Tech"
+   headline = "Embedded Software Developer @ RLC Electronic Systems,  \nCompSci Tutor, & Sound Tech"
    links = [
     { email = "mailto:kdrianvega@gmail.com"},
     { github = "https://github.com/csku25" },
     { linkedin = "https://linkedin.com/in/k-drian-vega-124350264" },
+    { tutoring = "https://www.superprof.com/experienced-computer-science-tutor-and-lesson-plan-developer-with-computer-science-currently-working-embedded-software.html" },
    ]
 
 [[menus.main]]

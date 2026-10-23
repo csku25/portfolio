@@ -9,14 +9,15 @@ title = "K'drian A. Vega"
   disableTextInHeader = true
   
 [params.author]
-   name = "K'drian Antonio Vega"
-   image = "/img/profile.jpg"
-   headline = "Programador, Tutor de Ciencia de Computación, & Técnico de Sonido"
-   links = [
+  name = "K'drian Antonio Vega"
+  image = "/img/profile.jpg"
+  headline = "Ingeniero de Software Embebido @ RLC Electronic Systems,  \nTutor de Ciencia de Computación, & Técnico de Sonido"
+  links = [
     { email = "mailto:kdrianvega@gmail.com"},
     { github = "https://github.com/csku25" },
     { linkedin = "https://linkedin.com/in/k-drian-vega-124350264" },
-   ]
+    { tutoring = "https://www.superprof.com/experienced-computer-science-tutor-and-lesson-plan-developer-with-computer-science-currently-working-embedded-software.html" },
+  ]
 
 [[menus.main]]
   name = "Proyectos"
